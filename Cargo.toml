@@ -10,7 +10,6 @@ readme = './README.md'
 homepage = 'https://github.com/LoganDark/array-append'
 repository = 'https://github.com/LoganDark/array-append'
 license = 'MIT'
-license-file = './LICENSE.md'
 keywords = ['array', 'const-generics']
 categories = ['no-std']
 
